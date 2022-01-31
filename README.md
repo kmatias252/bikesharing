@@ -35,3 +35,7 @@ The next heat map displays the most popular time of day for bike sharing based o
 Lastly, we can analyze  the difference between customer and subscriber bike sharing preferences throughout the week and also based on gender. The following heat map displays that male subscribers use the bike sharing service the most followed by female subscribers. 
 
 ## Summary of Analysis: 
+
+In conclusion, we can deduce that a majority of the bike share users are males subscribed to the bike sharing program and are traveling short distances (around 5 to 11 minutes in duration). The most frequent times for bike sharing was on weekdays around 8am and then again around 5pm so presumably going to and from work. Based on our analysis, we can propose to investors that they should develop a bike sharing program in Des Moines, Iowa as long as the surrounding area has a high concentration of businesses and a similar demographic to our NYC participants. 
+
+Two additional visualizations that would be helpful for future analysis would be 1) a pie chart to display what are the most common ages of the customers and subscribers of the bike sharing program to fully understand the demographics not just based on gender but also by age to see if the Des Moines population would be a good fit for the bike sharing program. Secondly, 2) we can create a multi-line graph to track the most popular bike checkout times based on age. This will help us understand consumer preferences based on age and therefore be able to market and advertise this program to the people of Des Moines, Iowa. 
