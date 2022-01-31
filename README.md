@@ -4,7 +4,8 @@
 
 ## Results:
 
-NYC Bikesharing Analysis Visualizations: [click here](https://public.tableau.com/app/profile/katelyn.matias)
+NYC Bikesharing Analysis Visualizations: [click here](https://public.tableau.com/app/profile/katelyn.matias/viz/NYCBikeSharingAnalysis_16435912009330/NYCBikeSharingAnalysis?publish=yes)
+
 
 ![Screen Shot 2022-01-30 at 1 14 51 PM](https://user-images.githubusercontent.com/91925639/151712256-baa47202-8be6-42d5-8d94-8e5f7a2b3ccb.png)
 
