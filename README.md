@@ -2,6 +2,12 @@
 
 ## Overview of Bikesharing Analysis:
 
+The purpose of this analysis is to develop a proposal that will provide evidence to key stakeholders looking to invest in a bike-sharing program in Des Moines, Iowa. Using Citi bike data from a NYC bike sharing program, this project will require the use of Pandas to change the “tripduration” column from an integer to a datetime datatype. Then through the use of  Tableau, the following visualizations will be created in order to convince investors in developing a bike sharing program:
+  * Show the length of time that bikes are checked out for all riders and genders
+  * Show the number of bike trips for all riders and genders for each hour of each day of the week
+  * Show the number of bike trips for each type of user and gender for each day of the week
+
+
 ## Results:
 
 NYC Bikesharing Analysis Visualizations: [click here](https://public.tableau.com/app/profile/katelyn.matias/viz/NYCBikeSharingAnalysis_16435912009330/NYCBikeSharingAnalysis?publish=yes)
